@@ -1,0 +1,11 @@
+body {
+        background-image: url("https://i.ytimg.com/vi/nomLvfvtAWE/hqdefault.jpg");
+
+}
+div {
+    background: black;
+    height: 300px;
+}
+imput {
+    height: 30px;
+}
